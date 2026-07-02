@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Header -->
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=이안
-&fontAlign=30&fontSize=30&textBg=true&desc=Problem%20Solving%20Developer&descAlign=60&descAlignY=50)
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=이안&fontAlign=30&fontSize=30&textBg=true&desc=Problem%20Solving%20Developer&descAlign=60&descAlignY=50)
 
 ---
 
